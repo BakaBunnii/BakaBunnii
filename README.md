@@ -2,10 +2,12 @@
 I’m a writer, mom, and aspiring developer diving headfirst into AI, Python, and robotics.
 
 🎯 **Current Goals:**
-- Finish my Coding Academy precourse ✅
 - Upload my first Python bot 💻
 - Earn Python & AI certifications 📜
 - Build cool, helpful automation tools 🛠️
+
+    ** COMPLETED **
+- Finish my Coding Academy precourse  ✅
 
 🧠 **What I'm Learning:**
 - Python basics (variables, loops, logic)
